@@ -1,6 +1,6 @@
 # Simply_Birth_user
 
-Login email-ayush@yopmail.com
+Subscriptiopn Login email-ayush@yopmail.com
 passwqord- Ayush@123
 
 2nd login for unsubscription
